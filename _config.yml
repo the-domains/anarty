@@ -1,0 +1,52 @@
+typography_spectrum: 0.8133469227543747
+content_rating:
+  adult: false
+color:
+  lightness: 0.6246500185052726
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  saturation: 0.965241685078968
+  brandStrength: 0.8652627313485609
+  rhythmicContrast: 0.40218926691957335
+opengraph: {}
+layout_spectrum: 0.5282930241974236
+analytics: {}
+author:
+  name: Carol Wiebe
+  email: carol.wiebe@gmail.com
+name: ANarty
+navigation:
+  - name: ANarty
+    url: 'Http://anarty.com'
+    type: external
+  - name: About
+    id: 61f4898a-113b-457e-a1e3-bcb552e5618e
+    type: content
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+coverPrefs:
+  filter: false
+purpose:
+  - type: internal
+    label: About
+    item: 61f4898a-113b-457e-a1e3-bcb552e5618e
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e63813-0591-4e5d-9369-5dd597e04b2b.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e9a7ae0-3610-49ca-8def-fdc9bf34a1ef.jpg
